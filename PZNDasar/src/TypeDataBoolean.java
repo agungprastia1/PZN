@@ -1,4 +1,4 @@
-public class TypeDataBoleean {
+public class TypeDataBoolean {
     public static void main(String[] args) {
         boolean benar = true;
         boolean salah = false;
