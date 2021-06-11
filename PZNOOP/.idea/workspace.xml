@@ -1,67 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9eeb989-bb8a-493e-bca0-8fc7b6c100d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZNOOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abs/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/AnimalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/CategoriApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/CityApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/CompanyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/CostumerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/EmployeeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/PeopleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/ProductApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/SayHelloApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Anjing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Avanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/CarApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Categori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dto/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inter/HasBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inter/IsMaintenance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inter/SayHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorphism/VicePresident.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/AnimalApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/CarApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/CategoriApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/LocationApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/ManagerApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/Polimorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/ProductApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplication/ShapeApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car/Avanza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car/Bus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/categori/Categori.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/VicePresident.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inter/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/location/City.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/location/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/people/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/people/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toString/Product.java" beforeDir="false" />
+    <list default="true" id="a9eeb989-bb8a-493e-bca0-8fc7b6c100d3" name="Default Changelist" comment="OOP Dasar PZN">
+      <change afterPath="$PROJECT_DIR$/src/app/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/StackTraceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ValidationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excpt/BlankException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excpt/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ValidationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PZNOOP/app/ProductApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PZNOOP/app/ProductApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PZNOOP/dto/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/ProductApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ProductApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dto/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toString/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,34 +47,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.ProductApp">
-    <configuration name="CarApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dto.CarApp" />
-      <module name="PZNOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoriApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.CategoriApp" />
-      <module name="PZNOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StackTraceApp">
     <configuration name="CityApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.CityApp" />
       <module name="PZNOOP" />
@@ -163,13 +89,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackTraceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.StackTraceApp" />
+      <module name="PZNOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.ValidationApp" />
+      <module name="PZNOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackTraceApp" />
+        <item itemvalue="Application.ValidationApp" />
         <item itemvalue="Application.ProductApp" />
         <item itemvalue="Application.CityApp" />
         <item itemvalue="Application.CostumerApp" />
-        <item itemvalue="Application.CategoriApp" />
-        <item itemvalue="Application.CarApp" />
       </list>
     </recent_temporary>
   </component>
@@ -195,5 +147,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OOP Dasar PZN" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Dasar PZN" />
   </component>
 </project>

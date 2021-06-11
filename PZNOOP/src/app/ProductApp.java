@@ -1,6 +1,6 @@
 package app;
 
-import dto.Product;
+import toString.Product;
 
 public class ProductApp {
     public static void main(String[] args) {

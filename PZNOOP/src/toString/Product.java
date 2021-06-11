@@ -1,4 +1,4 @@
-package dto;
+package toString;
 
 import java.util.Objects;
 
