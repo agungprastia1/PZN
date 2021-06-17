@@ -1,5 +1,8 @@
 package com.pzn.generik.dto;
 
+/*
+    membuat generik class
+ */
 public class MyData <T>{
     private  T data;
 
