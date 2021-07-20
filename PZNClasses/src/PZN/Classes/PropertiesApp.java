@@ -9,7 +9,7 @@ public class PropertiesApp {
     public static void main(String[] args) {
         try {
             Properties properties = new Properties();
-            properties.load(new FileInputStream("application.properties"));
+            properties.load(new FileInputStream("/media/agung/Data/Belajar Pemerograman/Java/code/PZN/PZNClasses/src/application.properties"));
 
             var host = properties.getProperty("database.host");
             var port = properties.getProperty("database.port");
