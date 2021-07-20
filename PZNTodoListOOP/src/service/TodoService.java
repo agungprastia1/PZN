@@ -1,2 +1,7 @@
-package service;public class TodoService {
+package service;
+
+public interface TodoService {
+    void showTodo();
+    void addTodo(String todo);
+    void removeTodo(Integer number);
 }

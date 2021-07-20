@@ -1,2 +1,15 @@
-package view;public class TodoListView {
+package view;
+
+public class TodoListView {
+    public void showTodoList(){
+
+    }
+
+    public void addTodo(){
+
+    }
+
+    public void removeTodo(){
+
+    }
 }
